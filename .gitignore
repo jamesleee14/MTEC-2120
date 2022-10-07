@@ -16,7 +16,7 @@
 /MTEC 2120 Terrains/Assets/Textures/GrassUV02
 /MTEC 2120 Terrains/Assets/Textures/GrassUV01_N
 /MTEC 2120 Terrains/Assets/Textures/GrassUV02_N
-/MTEC 2120 C# Script Lesson/Library/ArtifactDB
+/MTEC 2120 C"#" Script Lesson/Library/ArtifactDB
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
