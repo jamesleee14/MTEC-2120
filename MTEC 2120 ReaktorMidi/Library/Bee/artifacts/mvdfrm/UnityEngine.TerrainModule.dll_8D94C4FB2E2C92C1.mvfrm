@@ -3,6 +3,6 @@ UnityEngine
 Experimental
 TerrainAPI
 TerrainUtility
-TerrainPaintUtility
-PaintContext
 BrushTransform
+PaintContext
+TerrainPaintUtility
