@@ -118,6 +118,7 @@
 -define:ENABLE_INPUT_SYSTEM
 -define:ENABLE_LEGACY_INPUT_MANAGER
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 -define:STARTER_ASSETS_PACKAGES_CHECKED
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
@@ -125,6 +126,12 @@
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
 <<<<<<< Updated upstream:MTEC 2120 ReaktorMidi/Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Core.Editor.rsp
+=======
+-define:CSHARP_7_OR_LATER
+-define:CSHARP_7_3_OR_NEWER
+<<<<<<< Updated upstream:MTEC 2120 ReaktorMidi/Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Core.Editor.rsp
+<<<<<<< Updated upstream:MTEC 2120 ReaktorMidi/Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Core.Editor.rsp
+>>>>>>> Stashed changes
 -r:"/Applications/Unity/Unity.app/Contents/Managed/UnityEditor.Graphs.dll"
 -r:"/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEditor.CoreModule.dll"
 -r:"/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEditor.DeviceSimulatorModule.dll"
@@ -351,6 +358,11 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.TestRunner.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
 =======
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+=======
+>>>>>>> Stashed changes:MTEC 2120 C# Script Lesson/Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.Editor.rsp
 >>>>>>> Stashed changes
 -r:"Assets/StarterAssets/Editor/PackageChecker/StarterAssetsPackageChecker.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.8f1/Editor/Data/Managed/UnityEditor.Graphs.dll"
@@ -579,6 +591,13 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.TestRunner.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+>>>>>>> Stashed changes:MTEC 2120 C# Script Lesson/Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.Editor.rsp
+>>>>>>> Stashed changes
+=======
+<<<<<<< Updated upstream:MTEC 2120 ReaktorMidi/Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Core.Editor.rsp
+>>>>>>> Stashed changes:MTEC 2120 C# Script Lesson/Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.Editor.rsp
 =======
 >>>>>>> Stashed changes:MTEC 2120 C# Script Lesson/Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.Editor.rsp
 >>>>>>> Stashed changes
