@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Rune Assets/Musical Instuments/MIDI Keyboard/midi_keyboard.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
