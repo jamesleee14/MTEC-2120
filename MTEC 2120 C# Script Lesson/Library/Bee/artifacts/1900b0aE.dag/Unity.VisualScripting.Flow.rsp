@@ -122,7 +122,13 @@
 -define:ENABLE_LEGACY_INPUT_MANAGER
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 -define:STARTER_ASSETS_PACKAGES_CHECKED
+=======
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -138,8 +144,19 @@
 -define:CSHARP_7_3_OR_NEWER
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
 =======
+<<<<<<< Updated upstream:MTEC 2120 ReaktorMidi/Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Flow.rsp
+>>>>>>> Stashed changes
+=======
+<<<<<<< Updated upstream:MTEC 2120 ReaktorMidi/Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Flow.rsp
+<<<<<<< Updated upstream:MTEC 2120 ReaktorMidi/Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Flow.rsp
+>>>>>>> Stashed changes
+=======
+<<<<<<< Updated upstream:MTEC 2120 ReaktorMidi/Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Flow.rsp
+<<<<<<< Updated upstream:MTEC 2120 ReaktorMidi/Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Flow.rsp
 <<<<<<< Updated upstream:MTEC 2120 ReaktorMidi/Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Flow.rsp
 >>>>>>> Stashed changes
 <<<<<<< Updated upstream:MTEC 2120 ReaktorMidi/Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Flow.rsp
@@ -364,10 +381,25 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
 =======
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 >>>>>>> Stashed changes
 =======
 =======
 >>>>>>> Stashed changes:MTEC 2120 C# Script Lesson/Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.rsp
+>>>>>>> Stashed changes
+=======
+=======
+=======
+>>>>>>> Stashed changes:MTEC 2120 C# Script Lesson/Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.rsp
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes:MTEC 2120 C# Script Lesson/Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.rsp
+=======
+>>>>>>> Stashed changes:MTEC 2120 C# Script Lesson/Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.rsp
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 -r:"Assets/StarterAssets/Editor/PackageChecker/StarterAssetsPackageChecker.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.8f1/Editor/Data/Managed/UnityEditor.Graphs.dll"
@@ -591,12 +623,31 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
 >>>>>>> Stashed changes:MTEC 2120 C# Script Lesson/Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.rsp
 >>>>>>> Stashed changes
 =======
 <<<<<<< Updated upstream:MTEC 2120 ReaktorMidi/Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Flow.rsp
 >>>>>>> Stashed changes:MTEC 2120 C# Script Lesson/Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.rsp
+=======
+>>>>>>> Stashed changes:MTEC 2120 C# Script Lesson/Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.rsp
+>>>>>>> Stashed changes
+=======
+=======
+<<<<<<< Updated upstream:MTEC 2120 ReaktorMidi/Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Flow.rsp
+>>>>>>> Stashed changes
+<<<<<<< Updated upstream:MTEC 2120 ReaktorMidi/Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Flow.rsp
+<<<<<<< Updated upstream:MTEC 2120 ReaktorMidi/Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.Flow.rsp
+>>>>>>> Stashed changes:MTEC 2120 C# Script Lesson/Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.rsp
+=======
+>>>>>>> Stashed changes:MTEC 2120 C# Script Lesson/Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.rsp
+=======
+>>>>>>> Stashed changes:MTEC 2120 C# Script Lesson/Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.rsp
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 =======
 >>>>>>> Stashed changes:MTEC 2120 C# Script Lesson/Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.rsp
 >>>>>>> Stashed changes

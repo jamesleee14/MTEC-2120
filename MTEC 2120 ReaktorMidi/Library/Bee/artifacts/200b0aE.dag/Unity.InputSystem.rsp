@@ -129,6 +129,8 @@
 -define:CSHARP_7_3_OR_NEWER
 <<<<<<< Updated upstream:MTEC 2120 ReaktorMidi/Library/Bee/artifacts/200b0aE.dag/Unity.InputSystem.rsp
 <<<<<<< Updated upstream:MTEC 2120 ReaktorMidi/Library/Bee/artifacts/200b0aE.dag/Unity.InputSystem.rsp
+<<<<<<< Updated upstream:MTEC 2120 ReaktorMidi/Library/Bee/artifacts/200b0aE.dag/Unity.InputSystem.rsp
+<<<<<<< Updated upstream:MTEC 2120 ReaktorMidi/Library/Bee/artifacts/200b0aE.dag/Unity.InputSystem.rsp
 -r:"/Applications/Unity/Unity.app/Contents/Managed/UnityEditor.Graphs.dll"
 -r:"/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEditor.CoreModule.dll"
 -r:"/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEditor.DeviceSimulatorModule.dll"
@@ -347,6 +349,10 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
 =======
+=======
+>>>>>>> Stashed changes:MTEC 2120 C# Script Lesson/Library/Bee/artifacts/1900b0aE.dag/Unity.InputSystem.rsp
+=======
+>>>>>>> Stashed changes:MTEC 2120 C# Script Lesson/Library/Bee/artifacts/1900b0aE.dag/Unity.InputSystem.rsp
 =======
 >>>>>>> Stashed changes:MTEC 2120 C# Script Lesson/Library/Bee/artifacts/1900b0aE.dag/Unity.InputSystem.rsp
 -r:"Assets/StarterAssets/Editor/PackageChecker/StarterAssetsPackageChecker.dll"
@@ -568,6 +574,12 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 <<<<<<< Updated upstream:MTEC 2120 ReaktorMidi/Library/Bee/artifacts/200b0aE.dag/Unity.InputSystem.rsp
+<<<<<<< Updated upstream:MTEC 2120 ReaktorMidi/Library/Bee/artifacts/200b0aE.dag/Unity.InputSystem.rsp
+<<<<<<< Updated upstream:MTEC 2120 ReaktorMidi/Library/Bee/artifacts/200b0aE.dag/Unity.InputSystem.rsp
+>>>>>>> Stashed changes:MTEC 2120 C# Script Lesson/Library/Bee/artifacts/1900b0aE.dag/Unity.InputSystem.rsp
+=======
+>>>>>>> Stashed changes:MTEC 2120 C# Script Lesson/Library/Bee/artifacts/1900b0aE.dag/Unity.InputSystem.rsp
+=======
 >>>>>>> Stashed changes:MTEC 2120 C# Script Lesson/Library/Bee/artifacts/1900b0aE.dag/Unity.InputSystem.rsp
 =======
 >>>>>>> Stashed changes:MTEC 2120 C# Script Lesson/Library/Bee/artifacts/1900b0aE.dag/Unity.InputSystem.rsp
