@@ -1,0 +1,522 @@
+Unity Editor version:    2021.3.8f1 (b30333d56e81)
+Branch:                  2021.3/staging
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 10.15.7 (Build 19H2026)
+Darwin version:          19.6.0
+Architecture:            x86_64
+Running under Rosetta:   NO
+Available memory:        32768 MB
+Using pre-set license
+Pro License: YES
+
+COMMAND LINE ARGUMENTS:
+/Applications/Unity/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/student/Documents/GitHub/MTEC-2120/MTEC 2120 Animation H.W
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+50152
+Successfully changed project path to: /Users/student/Documents/GitHub/MTEC-2120/MTEC 2120 Animation H.W
+/Users/student/Documents/GitHub/MTEC-2120/MTEC 2120 Animation H.W
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Refreshing native plugins compatible for Editor in 116.55 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.8f1 (b30333d56e81)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/student/Documents/GitHub/MTEC-2120/MTEC 2120 Animation H.W/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+DELL P2715Q preferred device: AMD Radeon HD - FirePro D700 (high power)
+Metal devices available: 2
+0: AMD Radeon HD - FirePro D700 (high power)
+1: AMD Radeon HD - FirePro D700 (high power)
+Using device AMD Radeon HD - FirePro D700 (high power)
+Initializing Metal device caps: AMD Radeon HD - FirePro D700
+Initialize mono
+Mono path[0] = '/Applications/Unity/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos'
+Mono config path = '/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56250
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.001218 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 112.58 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.973 seconds
+Domain Reload Profiling:
+	ReloadAssembly (974ms)
+		BeginReloadAssembly (82ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (713ms)
+			LoadAssemblies (80ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (179ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (47ms)
+			SetupLoadedEditorAssemblies (414ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (9ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (113ms)
+				BeforeProcessingInitializeOnLoad (2ms)
+				ProcessInitializeOnLoadAttributes (222ms)
+				ProcessInitializeOnLoadMethodAttributes (69ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004017 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/student/Documents/GitHub/MTEC-2120/MTEC 2120 Animation H.W/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/student/Documents/GitHub/MTEC-2120/MTEC 2120 Animation H.W/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.566 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1567ms)
+		BeginReloadAssembly (145ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (9ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (37ms)
+		EndReloadAssembly (1233ms)
+			LoadAssemblies (85ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (439ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (83ms)
+			SetupLoadedEditorAssemblies (549ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (116ms)
+				ProcessInitializeOnLoadAttributes (379ms)
+				ProcessInitializeOnLoadMethodAttributes (44ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Refreshing native plugins compatible for Editor in 0.76 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3377 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 27 unused Assets / (94.4 KB). Loaded Objects now: 3834.
+Memory consumption went from 229.2 MB to 229.1 MB.
+Total: 4.004561 ms (FindLiveObjects: 0.313244 ms CreateObjectMapping: 0.147029 ms MarkObjects: 3.390338 ms  DeleteObjects: 0.152661 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: b23960f63f64bdc6ff669e2cdcee2391 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 7617.243047 seconds.
+  path: Assets/New Animator Controller.controller
+  artifactKey: Guid(82b796df5e0e0445a9ec7907e7cfaebd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Animator Controller.controller using Guid(82b796df5e0e0445a9ec7907e7cfaebd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b1143c045362123edce0325cf34377b') in 0.368481 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.169599 seconds.
+  path: Assets/Animation.controller
+  artifactKey: Guid(82b796df5e0e0445a9ec7907e7cfaebd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation.controller using Guid(82b796df5e0e0445a9ec7907e7cfaebd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd020da1d7fc0cc3f9c737dbe4d57a10c') in 0.002749 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.662896 seconds.
+  path: Assets/AnimationScript.cs
+  artifactKey: Guid(c2d89c9a56dd24fd592448c445189664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AnimationScript.cs using Guid(c2d89c9a56dd24fd592448c445189664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf4a742e79a24688143f4067bb77b30c') in 0.483945 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003906 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/student/Documents/GitHub/MTEC-2120/MTEC 2120 Animation H.W/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/student/Documents/GitHub/MTEC-2120/MTEC 2120 Animation H.W/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.514 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1515ms)
+		BeginReloadAssembly (185ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (9ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (72ms)
+		EndReloadAssembly (1172ms)
+			LoadAssemblies (91ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (450ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (71ms)
+			SetupLoadedEditorAssemblies (481ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (13ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (84ms)
+				ProcessInitializeOnLoadAttributes (337ms)
+				ProcessInitializeOnLoadMethodAttributes (43ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.65 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3373 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 20 unused Assets / (71.0 KB). Loaded Objects now: 3839.
+Memory consumption went from 237.7 MB to 237.6 MB.
+Total: 3.903658 ms (FindLiveObjects: 0.286269 ms CreateObjectMapping: 0.133125 ms MarkObjects: 3.373171 ms  DeleteObjects: 0.109750 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: b23960f63f64bdc6ff669e2cdcee2391 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 131.015171 seconds.
+  path: Assets/New Avatar Mask.mask
+  artifactKey: Guid(2f3671fe07cee44b8998646bc90432e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Avatar Mask.mask using Guid(2f3671fe07cee44b8998646bc90432e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e74ccd6a44a88cd9768d6213c693a48c') in 0.180936 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 18.774521 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79842766b460edbeab6a34051e857a80') in 0.002747 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004304 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/student/Documents/GitHub/MTEC-2120/MTEC 2120 Animation H.W/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/student/Documents/GitHub/MTEC-2120/MTEC 2120 Animation H.W/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.467 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1467ms)
+		BeginReloadAssembly (182ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (10ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (73ms)
+		EndReloadAssembly (1129ms)
+			LoadAssemblies (87ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (422ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (65ms)
+			SetupLoadedEditorAssemblies (477ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (12ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (84ms)
+				ProcessInitializeOnLoadAttributes (334ms)
+				ProcessInitializeOnLoadMethodAttributes (43ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.70 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3374 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 20 unused Assets / (71.0 KB). Loaded Objects now: 3843.
+Memory consumption went from 242.1 MB to 242.0 MB.
+Total: 3.868987 ms (FindLiveObjects: 0.298597 ms CreateObjectMapping: 0.133486 ms MarkObjects: 3.328627 ms  DeleteObjects: 0.106961 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: b23960f63f64bdc6ff669e2cdcee2391 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 2298.657012 seconds.
+  path: Assets/Pro Magic Pack
+  artifactKey: Guid(5775abe0c99ed434e80223873b857ee6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pro Magic Pack using Guid(5775abe0c99ed434e80223873b857ee6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff737e050002acc75229b612040be024') in 0.008105 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.410821 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(6ea315d0fd7389c41b19996891e99ae3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(6ea315d0fd7389c41b19996891e99ae3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8193726cff86800c54781cdc6d54904') in 0.002821 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.513728 seconds.
+  path: Assets/Pro Magic Pack/Crouch Idle.fbx
+  artifactKey: Guid(a2761ac4f13a4434d9306cc1fa9ab5e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pro Magic Pack/Crouch Idle.fbx using Guid(a2761ac4f13a4434d9306cc1fa9ab5e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c4db1624b659101608257e33c8cc213') in 0.419243 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000079 seconds.
+  path: Assets/Pro Magic Pack/Standing Jump Running.fbx
+  artifactKey: Guid(0d9e2de36dd0f2247800210fd0c5d027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pro Magic Pack/Standing Jump Running.fbx using Guid(0d9e2de36dd0f2247800210fd0c5d027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f49ef70649ecdaa8e1e388bd10efb128') in 0.012042 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000090 seconds.
+  path: Assets/Pro Magic Pack/Standing Run Right.fbx
+  artifactKey: Guid(30c7ae9738d8f0d45a3b062c8bde2950) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pro Magic Pack/Standing Run Right.fbx using Guid(30c7ae9738d8f0d45a3b062c8bde2950) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45950299d98ad331eae8d3836c7dec70') in 0.010725 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000093 seconds.
+  path: Assets/Pro Magic Pack/Standing Run Back.fbx
+  artifactKey: Guid(ac15153a3ed6d68418ec24d8424a730a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pro Magic Pack/Standing Run Back.fbx using Guid(ac15153a3ed6d68418ec24d8424a730a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed1fd832b959d2b123c38ffd46bc909f') in 0.011399 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000078 seconds.
+  path: Assets/Pro Magic Pack/standing 1H cast spell 01.fbx
+  artifactKey: Guid(a2830315747e4314bbc6024c17dc5669) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pro Magic Pack/standing 1H cast spell 01.fbx using Guid(a2830315747e4314bbc6024c17dc5669) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2ed4e6cdeb240e196995613469f1bf5') in 0.010882 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000098 seconds.
+  path: Assets/Pro Magic Pack/Standing 2H Magic Attack 01.fbx
+  artifactKey: Guid(822ea736a9a32ad42aa6e799212aef4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pro Magic Pack/Standing 2H Magic Attack 01.fbx using Guid(822ea736a9a32ad42aa6e799212aef4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f08a8f65e566c5069f54dabf0e1b8d48') in 0.012560 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000082 seconds.
+  path: Assets/Pro Magic Pack/Standing Run Left.fbx
+  artifactKey: Guid(a300f8d57af9a234b8438b3dffa543c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pro Magic Pack/Standing Run Left.fbx using Guid(a300f8d57af9a234b8438b3dffa543c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eaf673db5b5d53e4797ba2f5f336ee50') in 0.010252 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000071 seconds.
+  path: Assets/Pro Magic Pack/Standing 2H Magic Attack 03.fbx
+  artifactKey: Guid(20d394ad2238cbd4e95ffed9f27472e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pro Magic Pack/Standing 2H Magic Attack 03.fbx using Guid(20d394ad2238cbd4e95ffed9f27472e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45c0484aefadcf745ea67939d0c1a34e') in 0.010146 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000099 seconds.
+  path: Assets/Pro Magic Pack/Crouch Walk Forward.fbx
+  artifactKey: Guid(3d2d9d62af7292c43a39022a9bea77f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pro Magic Pack/Crouch Walk Forward.fbx using Guid(3d2d9d62af7292c43a39022a9bea77f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f57f28e24935253e2ec03c79f687e43') in 0.011121 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000092 seconds.
+  path: Assets/Pro Magic Pack/Standing 2H Magic Area Attack 01.fbx
+  artifactKey: Guid(27ba3a39f19fe27409da5cd6966f142f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pro Magic Pack/Standing 2H Magic Area Attack 01.fbx using Guid(27ba3a39f19fe27409da5cd6966f142f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3702796420497467185414e637d5cf0') in 0.012107 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000093 seconds.
+  path: Assets/Pro Magic Pack/standing idle 02.fbx
+  artifactKey: Guid(a70468196f4a07f4590ea1ee9b995eea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pro Magic Pack/standing idle 02.fbx using Guid(a70468196f4a07f4590ea1ee9b995eea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b11f4c241ec4ad1bb7f514bedf3ab0bb') in 0.014864 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000090 seconds.
+  path: Assets/Pro Magic Pack/Standing React Small From Back.fbx
+  artifactKey: Guid(bad3bb2699b009942a683dc70bfe00bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pro Magic Pack/Standing React Small From Back.fbx using Guid(bad3bb2699b009942a683dc70bfe00bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00354038ce5b6d5222dcec518437bc64') in 0.013464 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000086 seconds.
+  path: Assets/Pro Magic Pack/Standing React Small From Right.fbx
+  artifactKey: Guid(8153383b97e036d4bb1e98fc5f8792c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pro Magic Pack/Standing React Small From Right.fbx using Guid(8153383b97e036d4bb1e98fc5f8792c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed457f64e2efdbc881809664fffa208a') in 0.012914 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000095 seconds.
+  path: Assets/Pro Magic Pack/Standing Block React Large.fbx
+  artifactKey: Guid(f4c4f7ec8b6cde34fb16e65a8ceb44e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pro Magic Pack/Standing Block React Large.fbx using Guid(f4c4f7ec8b6cde34fb16e65a8ceb44e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52d97e414e8b0122cac96ada80defa64') in 0.013269 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000116 seconds.
+  path: Assets/Pro Magic Pack/Crouch Walk Left.fbx
+  artifactKey: Guid(9dec4e28b168e404ab027c366ff1e7a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pro Magic Pack/Crouch Walk Left.fbx using Guid(9dec4e28b168e404ab027c366ff1e7a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b5daa7be31a8bc9e3483bba5e4f9a26') in 0.012506 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000083 seconds.
+  path: Assets/Pro Magic Pack/Standing Idle 03.fbx
+  artifactKey: Guid(acb4d06768023ea46b75d5397d044905) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pro Magic Pack/Standing Idle 03.fbx using Guid(acb4d06768023ea46b75d5397d044905) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1eeeb13cfe16bd318a7611fd6e5bff00') in 0.011744 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000082 seconds.
+  path: Assets/Pro Magic Pack/Standing Walk Back.fbx
+  artifactKey: Guid(e52a7b3e0c9b13d4a8c25fc8a33ddbc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pro Magic Pack/Standing Walk Back.fbx using Guid(e52a7b3e0c9b13d4a8c25fc8a33ddbc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b296bb357dd5d962a1ffaeda5ba5146e') in 0.010278 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000080 seconds.
+  path: Assets/Pro Magic Pack/Standing 2H Magic Attack 02.fbx
+  artifactKey: Guid(706cb5dc240a00e438eee2ab1f2e30ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pro Magic Pack/Standing 2H Magic Attack 02.fbx using Guid(706cb5dc240a00e438eee2ab1f2e30ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b39e398ff35bb6ab2eb90029eb4d8e45') in 0.010777 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000091 seconds.
+  path: Assets/Pro Magic Pack/Standing Walk Right.fbx
+  artifactKey: Guid(4a3b1ca48cc864446bbb358ed75b58ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pro Magic Pack/Standing Walk Right.fbx using Guid(4a3b1ca48cc864446bbb358ed75b58ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46a226fa89cc60d04906e6f75dccc670') in 0.011089 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000075 seconds.
+  path: Assets/Pro Magic Pack/Standing 1H Magic Attack 03.fbx
+  artifactKey: Guid(09384c8a3c48e3d418648c2323627cb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pro Magic Pack/Standing 1H Magic Attack 03.fbx using Guid(09384c8a3c48e3d418648c2323627cb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed00db6c0add9d8ced7d992d7fd0728b') in 0.011299 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000073 seconds.
+  path: Assets/Pro Magic Pack/Standing Jump.fbx
+  artifactKey: Guid(36d0cf1f7ffb31c498bddf3254e43212) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pro Magic Pack/Standing Jump.fbx using Guid(36d0cf1f7ffb31c498bddf3254e43212) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d2862ac0c21178a6b016c8c205aa7d9') in 0.011308 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000079 seconds.
+  path: Assets/Pro Magic Pack/Standing Sprint Forward.fbx
+  artifactKey: Guid(72203df27b2d7a2439ec51a6857fa964) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pro Magic Pack/Standing Sprint Forward.fbx using Guid(72203df27b2d7a2439ec51a6857fa964) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50efc95020642c83c06c97d0f6ea9781') in 0.010235 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000095 seconds.
+  path: Assets/Pro Magic Pack/Standing 1H Magic Attack 01.fbx
+  artifactKey: Guid(6ba873af3d4472b4ea4fa74dde48d8e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pro Magic Pack/Standing 1H Magic Attack 01.fbx using Guid(6ba873af3d4472b4ea4fa74dde48d8e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecd0d8fb36efc2c93b9149b6454fd8bf') in 0.011183 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000075 seconds.
+  path: Assets/Pro Magic Pack/Standing 2H Cast Spell 01.fbx
+  artifactKey: Guid(41bbee6a44429ce4797da36765fd330f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pro Magic Pack/Standing 2H Cast Spell 01.fbx using Guid(41bbee6a44429ce4797da36765fd330f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d28b0fd46146a101f5b24d3ef9e0ff4') in 0.011085 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000083 seconds.
+  path: Assets/Pro Magic Pack/Standing Jump Running Landing.fbx
+  artifactKey: Guid(6529ba137a0c32b47b2c1fa5a3b93264) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pro Magic Pack/Standing Jump Running Landing.fbx using Guid(6529ba137a0c32b47b2c1fa5a3b93264) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '734e4f9994e6e25279fe7a7197072c9b') in 0.010316 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000082 seconds.
+  path: Assets/Pro Magic Pack/Standing Walk Forward.fbx
+  artifactKey: Guid(2be924d61eac98547a9694efee682fb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pro Magic Pack/Standing Walk Forward.fbx using Guid(2be924d61eac98547a9694efee682fb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1da3ba525218fc71a74d3d109af8386') in 0.009996 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000062 seconds.
+  path: Assets/Pro Magic Pack/standing idle.fbx
+  artifactKey: Guid(15ec803502918764db1edc9a362d676c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pro Magic Pack/standing idle.fbx using Guid(15ec803502918764db1edc9a362d676c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f0adf00d44c19a4966a991804e46e75') in 0.009659 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000073 seconds.
+  path: Assets/Pro Magic Pack/Standing Block End.fbx
+  artifactKey: Guid(0f5eb9c459a454f46a9fe9c3d231c94b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pro Magic Pack/Standing Block End.fbx using Guid(0f5eb9c459a454f46a9fe9c3d231c94b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a67c403946d074cd760481f299d0d992') in 0.010011 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000072 seconds.
+  path: Assets/Pro Magic Pack/Standing 2H Magic Area Attack 02.fbx
+  artifactKey: Guid(83776a72c1d1471428f2ba60e053a020) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pro Magic Pack/Standing 2H Magic Area Attack 02.fbx using Guid(83776a72c1d1471428f2ba60e053a020) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f33cef2b9cdef517533dcc6d6315b01d') in 0.010650 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000066 seconds.
+  path: Assets/Pro Magic Pack/Standing React Death Right.fbx
+  artifactKey: Guid(df119432766ba224b9a374d4b1f6308b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pro Magic Pack/Standing React Death Right.fbx using Guid(df119432766ba224b9a374d4b1f6308b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3eabf504f4aaa942affb8a9d4c0d0076') in 0.010779 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000076 seconds.
+  path: Assets/Pro Magic Pack/Standing React Small From Front.fbx
+  artifactKey: Guid(24413e359e195614c8163bd5ed1cec26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pro Magic Pack/Standing React Small From Front.fbx using Guid(24413e359e195614c8163bd5ed1cec26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbd5a6fedd6888b77156ad663128b810') in 0.010905 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000071 seconds.
+  path: Assets/Pro Magic Pack/Standing React Death Backward.fbx
+  artifactKey: Guid(be1f4d959829aa642be3061cd06a8076) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pro Magic Pack/Standing React Death Backward.fbx using Guid(be1f4d959829aa642be3061cd06a8076) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '228be45971bbeac57ced5d3c64843824') in 0.011744 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000070 seconds.
+  path: Assets/Pro Magic Pack/Standing React Death Forward.fbx
+  artifactKey: Guid(f31bb7ca2d3dc46489bb420baf8a050a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pro Magic Pack/Standing React Death Forward.fbx using Guid(f31bb7ca2d3dc46489bb420baf8a050a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a13aeb71dc00a4bbcbb11909e63091fb') in 0.011223 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
