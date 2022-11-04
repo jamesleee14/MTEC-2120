@@ -1,0 +1,114 @@
+{
+    "name": "Particle Input Actions",
+    "maps": [
+        {
+            "name": "Particles",
+            "id": "2665d1d3-63a9-464a-8afe-24558d597ac0",
+            "actions": [
+                {
+                    "name": "1st",
+                    "type": "Button",
+                    "id": "dcfdc21e-3978-4f37-91d6-64204d13dabe",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "2nd",
+                    "type": "Button",
+                    "id": "cf7bf7d6-e0d1-4837-b596-7c7258f8c05f",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "3rd",
+                    "type": "Button",
+                    "id": "ab48b2c7-60ae-4915-86fe-e08783af46a9",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "4th",
+                    "type": "Button",
+                    "id": "036f4f75-5684-421f-b449-3931616e0a39",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "5th",
+                    "type": "Button",
+                    "id": "924e0016-7ca7-4422-abe2-63a1071e266f",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "b312efea-44df-4d25-bf0f-6e17703a744e",
+                    "path": "<Keyboard>/1",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "1st",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "e085f68f-b5ca-4d92-93ac-8df450c8bb3c",
+                    "path": "<Keyboard>/2",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "2nd",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "19696f94-2526-4eeb-9693-b10341325524",
+                    "path": "<Keyboard>/3",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "3rd",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "41df1afe-7461-4f50-9753-4694044f7f79",
+                    "path": "<Keyboard>/4",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "4th",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "f66ace5c-2186-490d-80ff-fa51648f36c0",
+                    "path": "<Keyboard>/5",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "5th",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
